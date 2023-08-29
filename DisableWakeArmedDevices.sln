@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableWakeArmedDevices.WorkerService", "DisableWakeArmedDevices.WorkerService\DisableWakeArmedDevices.WorkerService.csproj", "{95AB12A0-DE04-4181-A14C-2AB2481F1D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableWakeArmedDevices.ClassLibrary", "DisableWakeArmedDevices.ClassLibrary\DisableWakeArmedDevices.ClassLibrary.csproj", "{0CC96266-D1A3-4A5A-A9DD-2405C99A63A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AB12A0-DE04-4181-A14C-2AB2481F1D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AB12A0-DE04-4181-A14C-2AB2481F1D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AB12A0-DE04-4181-A14C-2AB2481F1D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AB12A0-DE04-4181-A14C-2AB2481F1D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC96266-D1A3-4A5A-A9DD-2405C99A63A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC96266-D1A3-4A5A-A9DD-2405C99A63A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC96266-D1A3-4A5A-A9DD-2405C99A63A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC96266-D1A3-4A5A-A9DD-2405C99A63A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
